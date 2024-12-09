@@ -1,0 +1,162 @@
+name: green_path
+description: "A new Flutter project."
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_slidable: ^3.1.1
+  card_swiper: ^3.0.1
+  lottie: ^3.1.3
+  font_awesome_flutter: ^10.8.0
+  flutter_card_swiper: ^7.0.2
+  flutter_staggered_grid_view: ^0.7.0
+  syncfusion_flutter_charts: ^27.2.4
+  intl: ^0.19.0
+  firebase_messaging: ^15.1.5
+  webview_flutter: ^4.10.0
+  flutter_form_builder: ^9.5.0
+  cached_network_image: ^3.4.1
+  provider: ^6.1.2
+  firebase_storage: ^12.3.6
+  image_picker: ^1.1.2
+  google_sign_in: ^6.2.2
+  firebase_auth: ^5.3.3
+  firebase_ui_auth: ^1.16.0
+  cupertino_icons: ^1.0.8
+  sqflite: ^2.0.0+4  
+  path_provider: ^2.0.3  
+  shared_preferences: ^2.3.2
+  cloud_firestore: ^5.4.4
+  firebase_core: ^3.8.0
+  video_player: ^2.9.2
+  url_launcher: ^6.3.0
+  http: ^1.2.2
+  carousel_slider: ^5.0.0
+  smooth_page_indicator: ^1.2.0+3
+  animations: ^2.0.11
+  audioplayers: ^6.1.0
+  flutter_animate: ^4.5.0
+  google_fonts: ^6.2.1
+  confetti: ^0.8.0
+  share_plus: ^10.0.2
+  fl_chart: ^0.69.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  path: ^1.9.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+
+    - assets/login.png
+    - assets/signup.png
+
+    - assets/videos/air_purifier.mp4
+    - assets/images/green_path_logo.png
+    - assets/icons/tree_planting_icon.png
+    - assets/icons/air_quality_icon.png
+    - assets/icons/green.pic.png
+    - assets/google.png
+    - assets/images/startingscreen.jpg
+    - assets/icons/quiz_icon.png
+
+    - assets/animations/recycling.json
+    - assets/animations/confetti.json
+    - assets/animations/thumbs_up.json
+    - assets/animations/impact.json
+    - assets/animations/trash.json
+
+    - assets/icons/carbon_footprint_icon.png
+    - assets/icons/energy_tracker_icon.png
+    - assets/icons/water_usage_icon.png
+    - assets/icons/eco_product_icon.png
+    - assets/icons/waste_management_icon.png
+    - assets/icons/sustainability_tips_icon.png
+    - assets/icons/personal_goals_icon.png
+    - assets/icons/educational_resources_icon.png
+    - assets/icons/tv.png
+    - assets/icons/ac.png
+    - assets/icons/washing_machine.png
+    - assets/icons/microwave.png
+    - assets/icons/fridge.png
+    - assets/icons/oven.png
+    - assets/icons/lamp.png
+    - assets/icons/led.png
+    - assets/icons/default.png
+    - assets/icons/vacuum_cleaner.png
+    - assets/icons/iron.png
+    - assets/icons/hair_dryer.png
+    - assets/icons/freezer.png
+    - assets/icons/electric_stove.png
+    - assets/icons/electric_kettle.png
+    - assets/icons/water_heater.png
+    - assets/icons/dishwasher.png
+    - assets/icons/heater.png
+    - assets/icons/devices.png
+
+    - assets/animations/forest.json
+    - assets/animations/nature.json
+    - assets/animations/ecosystem.json
+    - assets/animations/rates.json
+    - assets/animations/forecast.json
+    - assets/animations/electricity.json
+    - assets/animations/freshwater.json
+
+    - assets/animations/unep.json
+    - assets/animations/guide.json
+    - assets/animations/monitor.json
+    - assets/animations/knowledge.json
+    - assets/animations/repository.json
+    - assets/animations/lab.json
+
+    - assets/animations/database.json
+    - assets/animations/wto.json
+    - assets/animations/research.json
+    - assets/animations/oecd.json
+
+    - assets/animations/coursera.json
+    - assets/animations/udemy.json
+    - assets/animations/harvard.json
+    - assets/animations/futurelearn.json
+    - assets/animations/moodle.json
+
+    - assets/animations/practical.json
+    - assets/animations/toolkit.json
+    - assets/animations/roadmap.json
+
+    - assets/animations/world.json
+    - assets/animations/future.json
+    - assets/animations/actionable.json
+    - assets/animations/renewable.json
+    - assets/animations/hope.json
+    - assets/animations/bio.json
+    - assets/animations/wri.json
+    - assets/animations/watch.json
+    - assets/animations/geographic.json
+
+    - assets/animations/tech.json
+    - assets/animations/techno.json
+    - assets/animations/iot.json
+    - assets/animations/technology.json
+    - assets/animations/guides.json
+
+    - assets/animations/conferences.json
+    - assets/animations/global.json
+    - assets/animations/icesa.json
+    - assets/animations/papers.json
+    - assets/animations/journal.json
+    - assets/animations/open.json
+    - assets/animations/publications.json
+    - assets/animations/funding.json
+    - assets/animations/exclusive.json
+    - assets/animations/blogs.json
