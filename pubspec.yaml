@@ -19,7 +19,7 @@ dependencies:
   intl: ^0.20.2
   firebase_messaging: ^15.1.5
   webview_flutter: ^4.10.0
-  flutter_form_builder: ^9.5.0
+  flutter_form_builder: ^10.2.0
   cached_network_image: ^3.4.1
   provider: ^6.1.2
   firebase_storage: ^12.3.6
